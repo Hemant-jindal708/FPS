@@ -1,2 +1,2 @@
-# FPS
-It is a FPS game made by me for orientation of Backslash Computing Socity
+# SPHERE RUNNER
+It is First game made by me for beginning of my game dev journey
